@@ -2,9 +2,12 @@
 
 `fazendo curso da alura`
 
-- ⚔️ ~ aprendendo python e java script
+- ⚔️ ~ aprendendo Python e JavaScript
 - ela/dela
 - ensino médio
+- 🌆 ~ curitiba-PR
+
+
 
 
 
