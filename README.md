@@ -1,11 +1,10 @@
 ### [+]Dávila Kelly
 
 `fazendo curso da alura`
-
-- ⚔️ ~ aprendendo Python e JavaScript
+Python e JavaScript
 - ela/dela
 - ensino médio
-- 🌆 ~ curitiba-PR
+- curitiba-PR
 
 
 
